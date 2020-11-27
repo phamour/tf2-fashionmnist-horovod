@@ -1,0 +1,9 @@
+.vscode
+__pycache__
+ckpt/
+data/*
+!/data/fashion/README.md
+logs/
+model/
+test.txt*
+
